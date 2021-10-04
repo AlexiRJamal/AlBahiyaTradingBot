@@ -1,0 +1,15 @@
+{
+  "name": "albahiyabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexi Jamal",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.12",
+    "telegram-node-bot": "^4.0.5"
+  }
+}
