@@ -9,6 +9,7 @@
   "author": "Alexi Jamal",
   "license": "ISC",
   "dependencies": {
+    "mongoose": "^6.0.8",
     "nodemon": "^2.0.12",
     "telegram-node-bot": "^4.0.5"
   }

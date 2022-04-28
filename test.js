@@ -1,1 +1,3 @@
-console.log(isNaN("test"));
+const mongoose = require('mongoose');
+
+const URL = 'mongodb://localhost'
